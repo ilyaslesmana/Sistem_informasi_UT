@@ -3,7 +3,7 @@
 > **Program Studi Sistem Informasi** · Repositori terstruktur untuk kode program, diagram/dokumen analisis, dan catatan tugas per modul mata kuliah.
 
 [![Struktur](https://img.shields.io/badge/Struktur-Code%20%2B%20Docs-2ea043?style=flat-square)](#struktur-direktori)
-[![Organisasi](https://img.shields.io/badge/Tugas-Tugas%201--3-1f6feb?style=flat-square)](#indeks-tugas)
+[![Organisasi](https://img.shields.io/badge/Tugas-%201--3-1f6feb?style=flat-square)](#indeks-tugas)
 [![Format](https://img.shields.io/badge/Dokumentasi-Markdown-8957e5?style=flat-square)](#standar-penyimpanan)
 
 ---
