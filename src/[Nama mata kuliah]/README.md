@@ -1,4 +1,4 @@
-# Dokumentasi & Perancangan Sistem
+# Dokumentasi & Perancangan Sistem tugas
 
 > **Program Studi Sistem Informasi** · Repositori terstruktur untuk kode program, diagram/dokumen analisis, dan catatan tugas per modul mata kuliah.
 
