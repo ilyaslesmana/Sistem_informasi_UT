@@ -1,8 +1,6 @@
-# Portofolio & Catatan Kuliah — Sistem Informasi (Universitas Terbuka)
+# Portofolio — Sistem Informasi (Universitas Terbuka)
 
-Repositori ini mendokumentasikan perjalanan belajar dan proyek mata kuliah di jurusan **Sistem Informasi (UT)**, mencakup analisis & perancangan sistem (RPL), pemrograman Java (OOP & aplikasi berbasis desktop), serta konsep jaringan komputer.
-
----
+Repositori ini mendokumentasikan perjalanan belajar dan proyek mata kuliah di jurusan **Sistem Informasi (UT)**, mencakup analisis & perancangan sistem (RPL), pemrograman Java (OOP & aplikasi berbasis desktop)
 
 ## 🎯 Fokus Pembelajaran & Kompetensi
 
@@ -22,6 +20,9 @@ sistem-informasi-ut/
 │   └── dfd-perpustakaan.drawio
 ├── src/
 │   ├── java-dasar-oop/
+    |    ├── use-case-alih-kredit.drawio
+│   |   ├── dfd-pemesanan-makanan.drawio
+│   |   └── dfd-perpustakaan.drawio
 │   └── java-desktop/
 └── README.md
 ```
