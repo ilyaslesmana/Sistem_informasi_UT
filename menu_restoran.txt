@@ -1,2 +1,0 @@
-Makanan;5;5.0
-Minuman;2;5.0
