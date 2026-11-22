@@ -1,4 +1,4 @@
-# Penjelasan [Nama Tugas]
+# Penjelasan
 
 ```markdown
 # `[Nama Tugas X]`

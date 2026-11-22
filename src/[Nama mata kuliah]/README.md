@@ -1,7 +1,5 @@
-# Penjelasan tugas[nama tugas]
-
 ````markdown
-# `[Nama Tugas X]`
+# `[Nama mata kuliah]`
 
 > [Penjelasan singkat tujuan tugas, kasus yang diselesaikan, atau fitur utama yang dibangun.]
 
