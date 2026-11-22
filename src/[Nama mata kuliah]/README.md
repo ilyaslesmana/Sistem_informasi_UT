@@ -1,4 +1,4 @@
-# `[Nama Mata Kuliah]` — Kode, Dokumentasi & Perancangan Sistem
+# Dokumentasi & Perancangan Sistem
 
 > **Program Studi Sistem Informasi** · Repositori terstruktur untuk kode program, diagram/dokumen analisis, dan catatan tugas per modul mata kuliah.
 
