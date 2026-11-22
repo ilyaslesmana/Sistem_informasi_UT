@@ -1,18 +1,27 @@
-## Getting Started
+# Portofolio & Catatan Kuliah — Sistem Informasi (Universitas Terbuka)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Repositori ini mendokumentasikan perjalanan belajar dan proyek mata kuliah di jurusan **Sistem Informasi (UT)**, mencakup analisis & perancangan sistem (RPL), pemrograman Java (OOP & aplikasi berbasis desktop), serta konsep jaringan komputer.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🎯 Fokus Pembelajaran & Kompetensi
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- **Rekayasa Perangkat Lunak (RPL):** Analisis kebutuhan, pemodelan sistem (_Use Case Diagram_ dan _Data Flow Diagram_ / DFD), standardisasi dokumentasi, serta _Software Quality Assurance_ (SQA).
+- **Pemrograman Java & OOP:** Dasar pemrograman, struktur perulangan (`for`, `for-each`, `while`, `do-while`), penerapan prinsip _Object-Oriented Programming_ (_inheritance_, _encapsulation_, _polymorphism_), serta pemrograman berbasis desktop.
+- **Jaringan Komputer:** Model lapisan OSI dan TCP/IP, protokol jaringan (seperti SNMP, DNS, DHCP, ARP, TCP/UDP), serta alur komunikasi pada LAN/WLAN/WAN dan jaringan seluler[cite: 13].
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 📁 Struktur Repositori
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+```text
+sistem-informasi-ut/
+├── docs/
+│   ├── use-case-alih-kredit.drawio
+│   ├── dfd-pemesanan-makanan.drawio
+│   └── dfd-perpustakaan.drawio
+├── src/
+│   ├── java-dasar-oop/
+│   └── java-desktop/
+└── README.md
+```
