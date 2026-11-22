@@ -13,9 +13,8 @@ public class latihanGraph {
     static class Graph {
         int jumlahNode; // Menyimpan total titik (node/vertex) di dalam graf
         List<List<Integer>> adjencyList; // Menggunakan Adjacency List untuk menyimpan koneksi antar node. Ini sangat
-                                         // efisien secara memori dibanding Adjacency Matrix.
-        // Constructor untuk inisialisasi awal saat objek Graph dibuat
 
+        // Constructor untuk inisialisasi awal saat objek Graph dibuat
         public Graph(int node) {
             this.jumlahNode = node; // komputer langsung melihat isi jumlah node
             adjencyList = new ArrayList<>(node); // Bikin list utama sebesar jumlah node
@@ -26,7 +25,7 @@ public class latihanGraph {
             }
         }
 
-        // Fungsi untuk menghubungkan dua node (bikin garis koneksi searah)
+        // untuk membuat edge menghubungkan dua node
         public void buatEdge(int parent, int child) {
             adjencyList.get(parent).add(child); // Nambahin node 'child' ke dalam list milik node 'parent'
         }
@@ -37,7 +36,7 @@ public class latihanGraph {
         int totalNode = 10; // Setup total node yang mau dibikin (Node 0 sampai 9)
         Graph graf = new Graph(totalNode); // membbuat objek baru dari class Graph langsung di masukan ke Graph
 
-        // Mapping jalur / relasi antar node (Membangun topologi graf)
+        // relasi antar node
         graf.buatEdge(0, 1);
         graf.buatEdge(0, 2);
         graf.buatEdge(1, 3);
